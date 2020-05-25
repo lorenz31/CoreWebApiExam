@@ -1,0 +1,27 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+*.sqlite
+.vs
+WebApiExam/bin/Debug/netstandard2.0
+WebApiExam/obj
+WebApiExam/bin/Debug
+WebApiExam/bin/Release
+WebApiExam/appsettings.Development.json
+WebApiExam/appsettings.json
+WebApiExam/appsettings.Production.json
+WebApiExam/Properties/PublishProfiles
+WebApiExam/Properties/launchSettings.json
+WebApiExam/WebApiExam.csproj.user
+
+WebApiExam.Core/bin/Debug/netstandard2.0
+WebApiExam.Core/obj
+WebApiExam.Core/bin/Debug
+WebApiExam.Core/bin/Release
+
+WebApiExam.Infra/bin/Debug/netstandard2.0
+WebApiExam.Infra/obj
+WebApiExam.Infra/bin/Debug
+WebApiExam.Infra/bin/Release
